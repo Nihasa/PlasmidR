@@ -10,7 +10,9 @@ annotations and plot linear cassettes or circular plasmids with the flexibility 
 accustomed to.
 
 Some resources for bioinformatics in R:
+
 http://a-little-book-of-r-for-bioinformatics.readthedocs.org/en/latest/src/chapter1.html
 
 Some resources for representing sequence information in Latex:
+
 https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf
